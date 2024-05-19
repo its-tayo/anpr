@@ -1,0 +1,4 @@
+jupyter==1.0.0
+python-dotenv==1.0.1
+roboflow==1.1.29
+ultralytics==8.2.18
